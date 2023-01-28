@@ -6,8 +6,7 @@ Created on Sun Sep 26 16:59:20 2021
 @author: muriloandreperespereira
 
 
-This is the main file of the work. Load, preprocess, implement the loop reestimating the model at every iteration (every day) 
-and present the main results.
+This is the main file of the work. Load, preprocess, implement the main model.
 
 We consider eight different models (har, har-cj, lhar-cj, lhar-cj+, ar1, harq, HARX, HARX (AdaLasso)) and six different assets (BOVA11, PETR4, VALE3, BBAS3, ITUB4, BBDC4) for 
 four forecasting horizons (1, 5 ,10, 22 days).
