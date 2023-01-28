@@ -5,7 +5,7 @@ Created on Wed Jun 16 16:09:52 2021
 
 @author: muriloandreperespereira
 
-Access news articles from Estadão, Folha and Valor to extract information. It's necessary to login in each newspaper.
+Access news articles from Estadão, Folha and Valor to extract information.
 
 """
 
