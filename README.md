@@ -1,6 +1,6 @@
 # improving-rv-forecasts-using-news-flow
 
-web_scrapping.py: access news articles from Estadão, Folha and Valor to extract information.
+web_scrapping.py: access news articles from Estadão, Folha and Valor to extract information. \\
 data.py: download data from Azure.
 epu.py: computes the Economic Policy Uncertainty (EPU) Index for Brazil based on Baker, Bloom and Davis (2016). 
 har.py: load data, preprocess and implement the main model.
